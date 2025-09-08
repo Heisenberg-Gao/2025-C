@@ -2,4 +2,4 @@
 - 第一问：混合线性效应模型
 - 第二问: Logistic混合优化模型
 - 第三问：多变量Logistic混合优化模型
-- 第四问: CNN、Adaboost、Random Forest、GDBT
+- 第四问: CNN、Adaboost、Random Forest、GDBT（二分类问题集成学习中Adaboost最优）
